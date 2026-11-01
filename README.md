@@ -1,6 +1,6 @@
 hello! here's a little about me:
 
-<h1>i love music & dogs :headphones: :dog:</h1>
+<h1>i like music </h1>
 
 <p align="center">
   <a href="https://hretzx.vercel.app/api/now-playing?open">
@@ -10,10 +10,6 @@ hello! here's a little about me:
 
 <p align="center">
   <img src="https://hretzx.vercel.app/api/top-played">
-</p>
-
-<p align="center">
-  <img src="./assets/dog-typing.gif" width="250">
 </p>
 
 <p align="center">
