@@ -16,10 +16,12 @@ hello! here's a little about me:
   <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
 </p>
 
-<h1>skills :hammer:</h1>
+<h1>skills</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,py,django,flask,ts,js,nodejs,nextjs,react,html,css,mysql,java&theme=dark">
 </p>
+
+<h1>my koi</h1>
 
 <img src="koi/koi.gif" width="256" alt="My koi">
