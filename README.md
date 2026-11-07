@@ -21,3 +21,5 @@ hello! here's a little about me:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,py,django,flask,ts,js,nodejs,nextjs,react,html,css,mysql,java&theme=dark">
 </p>
+
+<img src="koi/koi.gif" width="256" alt="My koi">
